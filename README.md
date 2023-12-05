@@ -2,7 +2,7 @@
 
 To get running you will need two terminal windows:
 
-In the first one: cd into proejct, enter ```rails s```
+In the first one: cd into project, enter ```rails s```
 
 In the second one: cd into project, enter ```bundle exec guard```
 
