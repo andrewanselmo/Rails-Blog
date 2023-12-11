@@ -1,5 +1,7 @@
 # README
 
+Log on to the school server at cd to public_html/'blog_copy'
+
 To get running you will need two terminal windows:
 
 In the first one: cd into project, enter ```rails s```
