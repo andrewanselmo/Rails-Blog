@@ -1,5 +1,3 @@
-# BLOG APPLICATION
-
 # DESCRIPTION 
 
 This web app allows users to create, read, update, edit, and delete text posts in a  blog format. 
